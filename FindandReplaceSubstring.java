@@ -1,5 +1,5 @@
 #Find and Replace Substring
-package session_72_08_12_2024;
+package session_73_08_12_2024;
 public class FindandReplaceSubstring {
 		    public static void main(String[] args) {
 		        String original = "Hello world! Welcome to the world of Java.";

@@ -1,5 +1,5 @@
 # Count Number of Vowels in a String
-package session_72_08_12_2024;
+package session_73_08_12_2024;
 import java.util.*;
 public class CountVowelsInString {
 	public static void main(String[] args) {

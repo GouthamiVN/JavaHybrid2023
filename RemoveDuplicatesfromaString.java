@@ -1,5 +1,5 @@
 #Remove Duplicates from a String
-package session_72_08_12_2024;
+package session_73_08_12_2024;
 public class RemoveDuplicatesfromaString {
 	public static void main(String[] args) {
 		        String input = "programming";
